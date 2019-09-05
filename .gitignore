@@ -8,3 +8,5 @@ molecule/default/.molecule*
 *.pem
 site.yml
 tests/test.retry
+playbook.yml
+inventory
